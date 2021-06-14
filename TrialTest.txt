@@ -1,2 +1,3 @@
 Hello there ... trying commit
-new line
+new line..
+New line added from intelij
